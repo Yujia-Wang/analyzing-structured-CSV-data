@@ -36,6 +36,7 @@ AverageHouseholdSize: 3.49
 range <field> <min> <max>: return all the information that matches the search requirement, and display in ascending order according to the field.
 Example:
 >Enter Function and Field: range TotalMales 3500 4000
+-------------------
 ZipCode: 90401 
 TotalPopulation: 6722 
 MedianAge: 37.8 
